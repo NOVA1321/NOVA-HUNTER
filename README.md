@@ -10,8 +10,8 @@ git clone https://github.com/NOVA1321/NOVA-HUNTER
 
 cd NOVA-HUNTER
 
-unzip NOVA-HUNTER.zip
+unzip NOVA_HUNTER.zip
 
-cd NOVA-HUNTER
+cd NOVA_HUNTER
 
 python dream.py
